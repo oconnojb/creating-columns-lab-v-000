@@ -52,6 +52,7 @@ img:hover {
   display: inline-block;
   float: left;
   vertical-align: top;
+  width: 32%;
 }
 
 .small {
